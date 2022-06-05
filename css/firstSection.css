@@ -1,0 +1,55 @@
+.title {
+    color: var(--primary-color);
+    
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 4rem;
+    line-height: 5.125rem;
+
+    width: 40rem;
+    height: 15.375rem;
+}
+
+.subtitle {
+    color: var(--secondary-color);
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 2.563rem;
+
+    width: 39.938rem;
+    height: 5.5rem;
+
+    margin-bottom: 3.313rem;
+}
+
+.learnMoreBtn {
+    color: var(--background-color);
+    background-color: var(--button-color);
+    
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-size: 1.5rem !important;
+    font-weight: 700;
+    line-height: 1.938rem;
+
+    padding: 0.625rem 0 0.625rem 0.625rem;
+
+    gap: 0.625rem;
+
+    width: 11.375rem;
+    height: 4.188rem;
+
+    border: none;
+    border-radius: 0.625rem;
+
+    text-decoration: none;
+}
+
+.image {
+    width: 46rem;
+    height: 31.938rem;
+}

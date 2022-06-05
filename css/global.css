@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+@import url('./navbar.css');
+@import url('./firstSection.css');
+
+:root {
+    --background-color: #FAFAFA;
+    --button-color: #2549D3;
+    --primary-color: #0F298B;
+    --secondary-color: #000000CF;
+    --black-color: #000000; 
+
+}
+
+* {
+    background-color: var(--background-color);
+}
