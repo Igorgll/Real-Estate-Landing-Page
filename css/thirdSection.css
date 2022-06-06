@@ -1,0 +1,49 @@
+#rectangleImage {
+    width: 40.779rem;
+    height: 28.313rem;
+}
+
+#h6ThirdSection {
+    color: var(--primary-color);
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem !important;
+    line-height: 3.813rem;
+
+    width: 39.625rem;
+    height: 3.813rem;
+}
+
+.titleThirdSection {
+    color: var(--primary-color);
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 3.813rem;
+
+    width: 39.625rem;
+    height: 3.813rem;
+}
+
+.subtitleThirdSection {
+    color: var(--secondary-color);
+    opacity: 0.8;
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.938rem;
+
+    width: 39.5rem;
+    height: 12.438rem;
+}
+
+#rowThirdSection {
+    width: 88.591rem;
+    height: 28.313rem;
+}

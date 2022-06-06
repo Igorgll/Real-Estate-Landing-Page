@@ -21,11 +21,16 @@
 .card {
     padding: 0 3.125rem;
 
-    width: 27.375rem;
+    width: 25.375rem;
     height: 33.688rem;
 }
 
+.card-body {
+    background-color: var(--white-color);
+}
+
 #h5Card {
+    background-color: var(--white-color);
     color: var(--black-color);
 
     font-family: 'Space Grotesk';
@@ -36,6 +41,8 @@
 }
 
 #pCard {
+    background-color: var(--white-color);
+
     color: var(--secondary-color);
     opacity: 0.8;
 
@@ -54,24 +61,20 @@
     box-shadow: 24px 24px 48px rgba(0, 0, 0, 0.05);
 }
 
-.cardBg {
-    background-color: var(--background-color) !important;
-}
-
 #addressMark {
-    background-color: var(--background-color);
+    background-color: var(--white-color);
     width: 4.25rem;
     height: 6.688rem;
 }
 
 #smartHouse {
-    background-color: var(--background-color);
+    background-color: var(--white-color);
     width: 11.5rem;
     height: 8.75rem;
 }
 
 #dataProtection {
-    background-color: var(--background-color);
+    background-color: var(--white-color);
     width: 8.813rem;
     height: 8.25rem;
 }

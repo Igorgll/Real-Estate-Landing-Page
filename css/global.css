@@ -3,9 +3,11 @@
 @import url('./navbar.css');
 @import url('./firstSection.css');
 @import url('./secondSection.css');
+@import url('./thirdSection.css');
 
 :root {
     --background-color: #FAFAFA;
+    --white-color: #FFFFFF;
     --button-color: #2549D3;
     --primary-color: #0F298B;
     --secondary-color: #000000CF;
