@@ -1,0 +1,77 @@
+.title2 {
+    color: var(--primary-color);
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 3.813rem;
+}
+
+.subtitle2 {
+    color: var(--secondary-color);
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.625rem;
+    line-height: 3.813rem;
+}
+
+.card {
+    padding: 0 3.125rem;
+
+    width: 27.375rem;
+    height: 33.688rem;
+}
+
+#h5Card {
+    color: var(--black-color);
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.25rem;
+    line-height: 2.875rem;
+}
+
+#pCard {
+    color: var(--secondary-color);
+    opacity: 0.8;
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.938rem;
+}
+
+#marginBody {
+    margin-top: 3.188rem;
+}
+
+#middleCard {
+    box-shadow: 24px 24px 48px rgba(0, 0, 0, 0.05);
+}
+
+.cardBg {
+    background-color: var(--background-color) !important;
+}
+
+#addressMark {
+    background-color: var(--background-color);
+    width: 4.25rem;
+    height: 6.688rem;
+}
+
+#smartHouse {
+    background-color: var(--background-color);
+    width: 11.5rem;
+    height: 8.75rem;
+}
+
+#dataProtection {
+    background-color: var(--background-color);
+    width: 8.813rem;
+    height: 8.25rem;
+}

@@ -1,3 +1,7 @@
+#first-Container {
+    bottom: 10000px;
+}
+
 .title {
     color: var(--primary-color);
     
@@ -52,4 +56,64 @@
 .image {
     width: 46rem;
     height: 31.938rem;
+}
+
+#row-Specs {
+    margin-left: 1.5rem;
+    top: 57.625rem;
+    
+    width: 80.938rem;
+    height: 10.375rem;
+
+    padding: 0 6.25rem;
+
+    box-shadow: 24px 24px 48px rgba(37, 73, 211, 0.05);
+    border-radius: 1.75rem;
+}
+
+#h3-Specs {
+    color: var(--primary-color);
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 1.938rem;
+}
+
+#p-Specs {
+    color: var(--black-color);
+    opacity: 0.5;
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem !important;
+    line-height: 1.938rem;
+}
+
+.search-Icon {
+    background-color: var(--button-color);
+}
+
+.SearchButton {
+    background-color: var(--button-color);
+
+    color: var(--background-color);
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem !important;
+    line-height: 1.938rem;
+
+    border: none;
+
+    padding: 0.625rem 0 0.625rem 0.625rem;
+    
+    gap: 0.625rem;
+    width: 11.375rem;
+    height: 4.188rem;
+
+    box-shadow: 24px 24px 48px rgba(0, 0, 0, 0.1);
+    border-radius: 0.625rem;
 }
