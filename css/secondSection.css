@@ -18,14 +18,14 @@
     line-height: 3.813rem;
 }
 
-.card {
+.cardFirstSection {
     padding: 0 3.125rem;
 
     width: 25.375rem;
     height: 33.688rem;
 }
 
-.card-body {
+.card-bodyFirstSection {
     background-color: var(--white-color);
 }
 

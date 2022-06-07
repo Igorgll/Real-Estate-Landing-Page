@@ -1,0 +1,43 @@
+.cardLastSection {
+    height: 14.881rem;
+}
+
+.cardTitle {
+    color: var(--black-color);
+    
+    width: 11rem;
+    height: 2.375rem;
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.869rem;
+    line-height: 2.375rem;
+}
+
+.cardSubtitle {
+    color: var(--black-color);
+    
+    width: 8.176rem;
+    height: 1.401rem;
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.168rem;
+    line-height: 1.563rem;
+}
+
+.cardText {
+    color: var(--black-color);
+
+    width: 25.400rem;
+    height: 7.25rem;
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.402rem;
+    line-height: 1.813rem;
+    opacity: 0.7;
+}

@@ -7,6 +7,9 @@
 @import url('./secondSection.css');
 @import url('./thirdSection.css');
 @import url('./fourthSection.css');
+@import url('./fifthSection.css');
+@import url('./footer.css');
+
 
 :root {
     --background-color: #FAFAFA;
@@ -15,9 +18,13 @@
     --primary-color: #0F298B;
     --secondary-color: #000000CF;
     --black-color: #000000; 
-
 }
 
 * {
     background-color: var(--background-color);
+}
+
+.container {
+    width: 1428px !important;
+    padding: 0 !important;  
 }
