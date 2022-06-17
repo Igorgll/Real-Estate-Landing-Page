@@ -1,8 +1,6 @@
 #rowWidth {
     width: 88.938rem;
     height: 31.938rem;
-    left: 9.563rem;
-    top: 16.125rem;
 }
 
 .title {
@@ -60,12 +58,12 @@
     width: 46rem;
     height: 31.938rem;
 }
+#rowHeight {
+    height: 370px;
+    padding-bottom: 170px;
+}
 
 #row-Specs {
-    margin-left: 1.5rem;
-    top: 57.625rem;
-    
-    width: 80.938rem;
     height: 10.375rem;
 
     padding: 0 6.25rem;

@@ -10,6 +10,23 @@
 @import url('./fifthSection.css');
 @import url('./footer.css');
 
+*::-webkit-scrollbar {
+    width: 5px;
+}
+  
+*::-webkit-scrollbar-track {
+    width: 12px;
+    background-color: var(--white-color);
+}
+  
+*::-webkit-scrollbar-thumb {
+    background-color: #8f8f8f;
+    border-radius: 15px;
+}
+
+body {
+    overflow-x: hidden;
+}
 
 :root {
     --background-color: #FAFAFA;
