@@ -94,3 +94,18 @@
     height: 1.5rem;
 }
 
+@media (max-width: 768px) {    
+    .cardH {
+        display: none;
+    }
+}
+
+@media (max-width: 1024px) {
+    .cardP {
+        font-size: 18px !important;
+    }
+    
+    .cardH {
+        display: none;
+    }
+}

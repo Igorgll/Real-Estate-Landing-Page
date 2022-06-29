@@ -24,8 +24,13 @@
     border-radius: 15px;
 }
 
+.container-fluid {
+    max-width: 90%;
+}
+
 body {
     overflow-x: hidden;
+    background-color: #FAFAFA !important;
 }
 
 :root {

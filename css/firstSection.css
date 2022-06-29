@@ -1,6 +1,5 @@
-#rowWidth {
-    width: 88.938rem;
-    height: 31.938rem;
+#container_specs {
+    height: 50rem;
 }
 
 .title {
@@ -54,10 +53,8 @@
     text-decoration: none;
 }
 
-.image {
-    width: 46rem;
-    height: 31.938rem;
-}
+/* ROW SPECS WITH THE SEARCH BUTTON */
+
 #rowHeight {
     height: 370px;
     padding-bottom: 170px;
@@ -117,4 +114,55 @@
 
     box-shadow: 24px 24px 48px rgba(0, 0, 0, 0.1);
     border-radius: 0.625rem;
+}
+
+@media (max-width: 768px) {
+    .learnMoreBtn {
+        width: 200%;
+    }
+    
+    #house {
+        display: none;
+    }
+
+    #p-Specs {
+        font-size: 18px !important;
+    }
+
+    #h3-Specs {
+        font-size: 18px !important;
+    }
+
+    .SearchButton {
+        background-color: #F9F9F9;
+        color: var(--primary-color);
+        box-shadow: none;
+        margin-left: 60px;
+        font-size: 30px !important;
+    }
+
+    ion-icon {
+        display: none;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    .learnMoreBtn {
+        width: 200%;
+    }
+    
+    #house {
+        display: none;
+    }
+}
+
+@media (max-width: 1500px) {
+    .learnMoreBtn {
+        width: 200%;
+    }
+    
+    #house {
+        display: none;
+    }
 }

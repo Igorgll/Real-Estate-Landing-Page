@@ -78,3 +78,35 @@
     width: 8.813rem;
     height: 8.25rem;
 }
+
+@media (max-width: 768px) {
+    #rowCards {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card {
+        width: 500px;
+    }
+
+    #first_card {
+        margin-left: 80px;
+    }
+
+    #middleCard {
+        margin-left: 30px;
+    }
+
+    #last_card {
+        margin-left: 30px;
+
+    }
+
+    #h5Card {
+        font-size: 50px;
+    }
+
+    #pCard {
+        font-size: 20px;
+    }
+}
