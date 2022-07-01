@@ -1,4 +1,4 @@
-# Recreating Real Estate Landing page from Figma Project (Desktop Only)
+# Recreating Real Estate Landing page from Figma Project
   ### Deploy: https://igorrealestatelandingpage.netlify.app/
   
   ### Tecnologies: HTML, CSS, BOOTSTRAP
